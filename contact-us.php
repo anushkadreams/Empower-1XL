@@ -57,7 +57,7 @@
                             </div>
                             <div class="contact-info-area wow fadeInUp my-4" data-wow-delay=".4s">
                                 <div class="contact-items color-style-2 d-flex">
-                                    <div class="icon me-2">
+                                    <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
@@ -71,7 +71,7 @@
                                     </div>
                                 </div>
                                 <div class="contact-items color-style-2 d-flex">
-                                    <div class="icon me-2">
+                                    <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
@@ -86,7 +86,7 @@
                                     </div>
                                 </div>
                                 <div class="contact-items color-style-2 d-flex">
-                                    <div class="icon me-2">
+                                    <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">

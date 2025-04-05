@@ -55,7 +55,7 @@
                                     Our Team Member
                                 </h2>
                             </div>
-                            <div class="contact-info-area my-4">
+                            <div class="contact-info-area wow fadeInUp my-4" data-wow-delay=".4s">
                                 <div class="contact-items color-style-2 d-flex">
                                     <div class="icon me-2">
                                         <i class="fas fa-map-marker-alt"></i>

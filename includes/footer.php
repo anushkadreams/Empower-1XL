@@ -1,5 +1,5 @@
 <footer class="footer-section footer-bg">
-    <div class="container py-3">
+    <div class="container pb-4">
         <div class="footer-widgets-wrapper pb-1 pt-1">
             <div class="row">
                 <div class="col-xl-3 col-xxl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".2s">

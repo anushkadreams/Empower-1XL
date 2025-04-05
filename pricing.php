@@ -82,7 +82,7 @@
                             <p>For Small Businesses</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn style-transparent">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn style-transparent">Choose Package</a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                             <p>For Small Businesses</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn style-transparent">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn style-transparent">Choose Package</a>
                         </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                             <p>For Small Businesses</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn style-transparent">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn style-transparent">Choose Package</a>
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                             <p>Sed ut perspiciatis unde omnis istewse natus sit voluptatem accusa</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn bg-header">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn bg-header">Choose Package</a>
                         </div>
                         <div class="price-items">
                             <h2>
@@ -228,7 +228,7 @@
                             <p>Sed ut perspiciatis unde omnis istewse natus sit voluptatem accusa</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn bg-header">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn bg-header">Choose Package</a>
                         </div>
                         <div class="price-items">
                             <h2>
@@ -275,7 +275,7 @@
                             <p>Sed ut perspiciatis unde omnis istewse natus sit voluptatem accusa</p>
                         </div>
                         <div class="pricing-button">
-                            <a href="contact.html" class="theme-btn bg-header">Choose Package</a>
+                            <a href="contact-us.php" class="theme-btn bg-header">Choose Package</a>
                         </div>
                         <div class="price-items">
                             <h2>
@@ -330,7 +330,7 @@
                 </div>
                 <div class="discussed-content wow fadeInUp" data-wow-delay=".5s">
                     <h2>Let’s Discuss About <span>Your Projects</span></h2>
-                    <a href="contact.html" class="theme-btn hover-white">Get Started <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="contact-us.php" class="theme-btn hover-white">Get Started <i class="fa-solid fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -353,7 +353,7 @@
                         <img src="assets/img/cta/circle-shape.png" alt="shape-img">
                     </div>
                 </div>
-                <a href="about.html" class="theme-btn bg-2 wow fadeInUp" data-wow-delay=".7s">Discover More <i class="fa-solid fa-arrow-right"></i></a>
+                <a href="about-us.php" class="theme-btn bg-2 wow fadeInUp" data-wow-delay=".7s">Discover More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>
     </section>

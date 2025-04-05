@@ -98,7 +98,7 @@
                                     <p>Our attention to detail and quality is unmatched in the industry. <br> We’re not just a resource provider but also a key</p>
                                 </div>
                             </div>
-                            <a href="about.html" class="theme-btn mt-50 wow fadeInUp" data-wow-delay=".5s">
+                            <a href="about-us.php" class="theme-btn mt-50 wow fadeInUp" data-wow-delay=".5s">
                                 Learn More About Us
                                 <i class="fa-solid fa-arrow-right"></i>
                             </a>

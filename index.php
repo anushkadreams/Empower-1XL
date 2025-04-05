@@ -32,7 +32,7 @@
                             Our Next Agency
                         </h1>
                         <div class="hero-button wow fadeInUp" data-wow-delay=".6s">
-                            <a href="about.html" class="theme-btn">Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="about-us.php" class="theme-btn">Learn More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="dashboard-image wow fadeInUp" data-wow-delay=".7s">
@@ -164,12 +164,12 @@
                         </div>
                         <div class="service-content">
                             <h3>
-                                <a href="service-details.html">
+                                <a href="#">
                                     Keyword Research
                                 </a>
                             </h3>
                             <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium</p>
-                            <a href="service-details.html" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -180,12 +180,12 @@
                         </div>
                         <div class="service-content">
                             <h3>
-                                <a href="service-details.html">
+                                <a href="#">
                                     Content Writing
                                 </a>
                             </h3>
                             <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium</p>
-                            <a href="service-details.html" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -196,12 +196,12 @@
                         </div>
                         <div class="service-content">
                             <h3>
-                                <a href="service-details.html">
+                                <a href="#">
                                     Site Optimizations
                                 </a>
                             </h3>
                             <p>Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium</p>
-                            <a href="service-details.html" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
+                            <a href="#" class="theme-btn bg-2">Learn More <i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

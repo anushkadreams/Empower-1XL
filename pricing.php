@@ -324,7 +324,7 @@
         <div class="container">
             <div class="discussed-items py-3">
                 <div class="footer-logo wow fadeInUp" data-wow-delay=".3s">
-                    <a href="index.html">
+                    <a href="index.php">
                         <img src="assets/img/logo/1xlempower-transparent-logo.png" width="100px" alt="logo-img">
                     </a>
                 </div>

@@ -110,7 +110,7 @@
     </section>
 
     <!-- Team Section Start -->
-    <section class="team-section fix footer-bg section-padding">
+    <!-- <section class="team-section fix footer-bg section-padding">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -232,7 +232,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Working Process Section Start -->
     <section class="working-process-section section-padding">

@@ -336,7 +336,7 @@
     </section>
 
     <!-- Brand Section Start -->
-    <section class="brand-section-2 mt-0 mb-0 fix section-padding pt-0">
+    <!-- <section class="brand-section-2 mt-0 mb-0 fix section-padding pt-0">
         <div class="container-fluid">
             <div class="brand-wrapper-2">
                 <div class="radius-shape">
@@ -376,7 +376,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Testimonial Section Start -->
     <section class="testimonial-section-2 fix section-padding fix">

@@ -175,7 +175,7 @@
     <div class="footer-bottom style-2">
         <div class="container">
             <div class="footer-wrapper d-flex align-items-center justify-content-center pt-0 mt-0 pb-0">
-                <p>&copy; 2024 - 2025 <strong><a target="_blank" href="https://1xl.com/" id="footer-link">Empower.1XL.com</a></strong> – A Product of <strong><a target="_blank" href="https://1xl.com/" id="footer-link">ONE XL INFO LLP.</a></strong> All Rights Reserved.</p>
+                <p>&copy; 2024 - 2025 <strong><a target="_blank" href="index.php" id="footer-link">Empower.1XL.com</a></strong> – A Product of <strong><a target="_blank" href="index.php" id="footer-link">ONE XL INFO LLP.</a></strong> All Rights Reserved.</p>
             </div>
         </div>
     </div>

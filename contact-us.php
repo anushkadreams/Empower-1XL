@@ -65,12 +65,13 @@
                                 </h2>
                             </div>
                             <div class="contact-info-area wow fadeInUp my-4" data-wow-delay=".4s">
-                                <div class="contact-items color-style-2 d-flex">
+                                <div class="contact-items color-style-2 mt-4 d-flex">
                                     <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
                                         <p>
+                                            <p><b>Registered Office:</b></p>
                                             <a href="https://www.google.com/maps/place/Ennovata+Sales+%26+Services+Pvt.+Ltd./@18.610471,73.764367,1662m/data=!3m1!1e3!4m10!1m2!2m1!1s3,+Jainam+Tower,+3,+Sai+Park,+Belthika+Nagar,+Thergaon,+Pune+%E2%80%93+411033,+Maharashtra,+India!3m6!1s0x3bc2b90b0d115bb9:0xcd77ad8be085415d!8m2!3d18.6106728!4d73.7736045!15sClszLCBKYWluYW0gVG93ZXIsIDMsIFNhaSBQYXJrLCBCZWx0aGlrYSBOYWdhciwgVGhlcmdhb24sIFB1bmUg4oCTIDQxMTAzMywgTWFoYXJhc2h0cmEsIEluZGlhkgEQc29mdHdhcmVfY29tcGFueeABAA!16s%2Fg%2F11gz_lmy7?entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">
                                                 <p>3, Jainam Tower, 3, Sai Park,</p>
                                                 <p>Belthika Nagar, Thergaon,</p>
@@ -79,12 +80,13 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="contact-items color-style-2 d-flex">
+                                <div class="contact-items color-style-2 mt-4 d-flex">
                                     <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
                                         <p>
+                                            <p><b>Registered Office:</b></p>
                                             <a href="https://www.google.com/maps/place/ESE+Middle+East+L.LC-FZ/@25.1562107,55.2979963,794m/data=!3m1!1e3!4m10!1m2!2m1!1sBusiness+Center+1,+M+Floor,+The+Meydan+Hotel,+Nad+Al+Sheba,+Dubai,+U.A.E.!3m6!1s0x3e5f69ac023a76bf:0x5fb8b889c09a8416!8m2!3d25.1567537!4d55.3008412!15sCklCdXNpbmVzcyBDZW50ZXIgMSwgTSBGbG9vciwgVGhlIE1leWRhbiBIb3RlbCwgTmFkIEFsIFNoZWJhLCBEdWJhaSwgVS5BLkUukgEWc2VydmljZWRfYWNjb21tb2RhdGlvbuABAA!16s%2Fg%2F11s2sd8pz1?entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">
                                                 <p>Business Center 1, M Floor,</p>
                                                 <p>The Meydan Hotel,</p>
@@ -94,12 +96,13 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="contact-items color-style-2 d-flex">
+                                <div class="contact-items color-style-2 mt-4 d-flex">
                                     <div class="icon me-3">
                                         <i class="fas fa-map-marker-alt"></i>
                                     </div>
                                     <div class="content">
                                         <p>
+                                            <p><b>Corporate Office:</b></p>
                                             <a href="https://www.google.com/maps/place/The+Exchange+Tower/@25.1863253,55.2575197,793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3e5f694c700e12f9:0x190ce8d857467f06!8m2!3d25.1863205!4d55.2600946!16s%2Fg%2F11h2h194ly?entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">
                                                 <p>2007, The Exchange Tower,</p>
                                                 <p>Business Bay,</p>
@@ -127,7 +130,7 @@
                                     <!-- contact number -->
                                     <div class="col-lg-6">
                                         <div class="form-clt">
-                                            <input value="+91" type="hidden" name="ccode" id="ccode">
+                                            <input type="hidden" name="ccode" id="ccode">
                                             <input style="padding-left: 50px;" type="tel" required class="form-control mobile" name="mobile" id="mobile" placeholder="Contact Number">
                                             <span class="alert-error" id="mobile-error"></span>
                                         </div>

@@ -58,17 +58,6 @@
                                 Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium <br>
                                 doloremque laudantium, totam rem aperiam
                             </p>
-                            <ul class="contact-list wow fadeInUp" data-wow-delay=".3s">
-                                <li>
-                                    <a href="mailto:info@example.com">info@example.com</a>
-                                </li>
-                                <li>
-                                    55 Main Street, 2nd block, Malborne, Australia
-                                </li>
-                                <li>
-                                    <a href="tel:+00012345688">+000 (123) 456 88</a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                     <div class="col-lg-6">

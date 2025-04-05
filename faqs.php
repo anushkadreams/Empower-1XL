@@ -68,11 +68,11 @@
                                 </div>
                                 <div class="accordion-item wow fadeInUp" data-wow-delay=".5s">
                                     <h4 class="accordion-header">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="true" aria-controls="faq2">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2" aria-expanded="true" aria-controls="faq2">
                                             How to Increase Web Traffic ?
                                         </button>
                                     </h4>
-                                    <div id="faq2" class="accordion-collapse collapse show" data-bs-parent="#accordion">
+                                    <div id="faq2" class="accordion-collapse collapse" data-bs-parent="#accordion">
                                         <div class="accordion-body">
                                             Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan tiueaque quae abillo inventore veritatis et quasi architecto beatae vitae dicta explicabo voluptatem voluptas aspernatur
                                         </div>

@@ -47,7 +47,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="press-and-media.php">
+                                <a href="contact-us.php">
                                     Press <span class="text-lowercase">and</span> Media
                                 </a>
                             </li>
@@ -67,7 +67,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="contact-support.php">
+                                <a href="contact-us.php">
                                     Contact Support
                                 </a>
                             </li>
@@ -112,12 +112,12 @@
                         </div>
                         <ul class="list-items">
                             <li>
-                                <a href="become-a-coach.php">
+                                <a href="contact-us.php">
                                     Become <span class="text-lowercase">a</span> Coach
                                 </a>
                             </li>
                             <li>
-                                <a href="become-a-content-partner.php">
+                                <a href="contact-us.php">
                                     Become <span class="text-lowercase">a</span> Content Partner
                                 </a>
                             </li>
@@ -137,7 +137,7 @@
                         </div>
                         <ul class="list-items">
                             <li>
-                                <a href="join-community.php">
+                                <a href="contact-us.php">
                                     Join Community
                                 </a>
                             </li>

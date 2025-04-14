@@ -46,7 +46,7 @@
     </div>
 
     <!-- Contact Section Section Start -->
-    <section class="contact-section section-padding">
+    <section class="contact-section section-padding py-5">
         <div class="container">
             <div class="contact-wrapper">
                 <div class="row g-4">
@@ -84,8 +84,8 @@
                                     <!-- contact number -->
                                     <div class="col-lg-6">
                                         <div class="form-clt">
-                                            <input value="+91" type="hidden" name="ccode" id="ccode">
-                                            <input style="padding-left: 50px;" type="tel" required class="form-control mobile" name="mobile" id="mobile" placeholder="Contact Number">
+                                            <input  type="hidden" name="ccode" id="ccode">
+                                            <input value="+91" style="padding-left: 50px;" type="tel" required class="form-control mobile" name="mobile" id="mobile" placeholder="Contact Number">
                                             <span class="alert-error" id="mobile-error"></span>
                                         </div>
                                     </div>
@@ -144,9 +144,10 @@
         </div>
     </div>
 
-
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 

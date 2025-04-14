@@ -39,7 +39,7 @@
     </div>
 
     <!-- About Section Start -->
-    <section class="about-section fix section-padding pb-0">
+    <section class="about-section fix section-padding py-5">
         <div class="container">
             <div class="about-wrapper style-2">
                 <div class="row g-4 align-items-center">
@@ -76,7 +76,7 @@
             </div>
         </div>
     </section>
-    <section class="about-section fix section-padding pt-80">
+    <section class="about-section fix section-padding py-5">
         <div class="container">
             <div class="about-wrapper style-2">
                 <div class="row g-4 align-items-center">
@@ -110,7 +110,7 @@
     </section>
 
     <!-- Team Section Start -->
-    <section class="team-section fix footer-bg section-padding">
+    <section class="team-section fix footer-bg section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -235,7 +235,7 @@
     </section>
 
     <!-- Working Process Section Start -->
-    <section class="working-process-section section-padding">
+    <section class="working-process-section section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -287,51 +287,85 @@
         </div>
     </section>
 
-    <!-- Brand Section Start -->
-    <!-- <section class="brand-section-2 mt-0 mb-0 fix section-padding pt-0">
-        <div class="container-fluid">
-            <div class="brand-wrapper-2">
-                <div class="radius-shape">
-                    <img src="assets/img/brand/radius-left.png" alt="shape-img">
+    <!-- Cta Marketing Section Start -->
+    <section class="cta-marketing-section fix my-4">
+        <div class="container">
+            <div class="cta-marketing-wrapper">
+                <div class="content">
+                    <h2 class="text-white wow fadeInUp" data-wow-delay=".3s">
+                        Ready to Boost your Digital <br>
+                        product marketing ?
+                    </h2>
+                    <p class="text-white wow fadeInUp" data-wow-delay=".5s">Sed ut perspiciatis unde omnis iste natus error sit voluptatem <br> accusantium doloremque laudantium, totam rem</p>
                 </div>
-                <div class="radius-shape-2">
-                    <img src="assets/img/brand/radius-right.png" alt="shape-img">
-                </div>
-                <h5 class="wow fadeInUp" data-wow-delay=".3s">We Have <span>1563+</span> Global Partners. Explore Our Global Clients</h5>
-                <div class="brand-items">
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".2s">
-                        <img src="assets/img/brand/linkedIn.png" alt="img">
-                    </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".4s">
-                        <img src="assets/img/brand/dropbox.png" alt="img">
-                    </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".6s">
-                        <img src="assets/img/brand/trello.png" alt="img">
-                    </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".8s">
-                        <img src="assets/img/brand/framer.png" alt="img">
+                <div class="thumb wow fadeInUp" data-wow-delay=".6s">
+                    <img src="assets/img/cta/cta-marketing.png" alt="img">
+                    <div class="circle-shape">
+                        <img src="assets/img/cta/circle-shape.png" alt="shape-img">
                     </div>
                 </div>
-                <div class="brand-items">
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".2s">
-                        <img src="assets/img/brand/grammarly.png" alt="img">
+                <a href="about.html" class="theme-btn bg-2 wow fadeInUp" data-wow-delay=".7s">Discover More <i class="fa-solid fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Counter Section Start -->
+    <section class="counter-section  section-padding py-3 mt-5">
+        <div class="container">
+            <div class="section-title text-center mb-0">
+                <span class="sub-content wow fadeInUp">
+                    <img src="assets/img/bale.png" alt="img">
+                    Fun Facts
+                </span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                    <div class="counter-items">
+                        <h2><span class="count">98</span>%</h2>
+                        <p>
+                            Average <br>
+                            Conversion Rate
+                        </p>
                     </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".4s">
-                        <img src="assets/img/brand/amazon.png" alt="img">
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
+                    <div class="counter-items">
+                        <h2><span class="count">35</span>M+</h2>
+                        <p>
+                            Traffic <br>
+                            Generated
+                        </p>
                     </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".6s">
-                        <img src="assets/img/brand/outbrain.png" alt="img">
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
+                    <div class="counter-items">
+                        <h2><span class="count">97</span>%</h2>
+                        <p>
+                            Positive <br>
+                            Customer Review
+                        </p>
                     </div>
-                    <div class="brand-image wow fadeInUp" data-wow-delay=".8s">
-                        <img src="assets/img/brand/shopify.png" alt="img">
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
+                    <div class="counter-items">
+                        <h2><span class="count">92</span>%</h2>
+                        <p>
+                            Professional <br>
+                            Team Members
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
+
 
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 </body>

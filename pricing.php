@@ -39,7 +39,7 @@
     </div>
 
     <!-- Pricing Section Start -->
-    <section class="pricing-section section-padding">
+    <section class="pricing-section section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -161,7 +161,7 @@
     </section>
 
     <!-- Pricing Section Start -->
-    <section class="pricing-section-2 fix section-padding">
+    <section class="pricing-section-2 fix section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -319,24 +319,7 @@
         </div>
     </section>
 
-    <!-- lets discuss section start -->
-    <div class="footer-bg">
-        <div class="container">
-            <div class="discussed-items py-3">
-                <div class="footer-logo wow fadeInUp" data-wow-delay=".3s">
-                    <a href="index.php">
-                        <img src="assets/img/logo/1xlempower-transparent-logo.png" width="100px" alt="logo-img">
-                    </a>
-                </div>
-                <div class="discussed-content wow fadeInUp" data-wow-delay=".5s">
-                    <h2>Let’s Discuss About <span>Your Projects</span></h2>
-                    <a href="contact-us.php" class="theme-btn hover-white">Get Started <i class="fa-solid fa-arrow-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Cta Marketing Section Start -->
+    <!-- Cta Marketing Section Start
     <section class="cta-marketing-section fix section-padding py-4">
         <div class="container">
             <div class="cta-marketing-wrapper">
@@ -356,10 +339,12 @@
                 <a href="about-us.php" class="theme-btn bg-2 wow fadeInUp" data-wow-delay=".7s">Discover More <i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 </body>

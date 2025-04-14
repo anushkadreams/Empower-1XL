@@ -38,7 +38,7 @@
     </div>
 
     <!-- Faq Section Start -->
-    <section class="faq-section section-padding">
+    <section class="faq-section section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -147,7 +147,9 @@
     </section>
 
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 </body>

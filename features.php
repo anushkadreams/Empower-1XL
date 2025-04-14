@@ -39,7 +39,7 @@
     </div>
 
     <!-- Grow Business Section Start -->
-    <section class="grow-business-section fix section-padding">
+    <section class="grow-business-section fix section-padding py-5">
         <div class="container">
             <div class="grow-business-wrapper-2">
                 <div class="row g-4 justify-content-between">
@@ -88,7 +88,7 @@
     </section>
 
     <!-- Service Section Start -->
-    <section class="service-section-4 fix bg-cover section-padding" style="background-image: url('assets/img/service/service-bg-min.jpg');">
+    <section class="service-section-4 fix bg-cover section-padding py-5" style="background-image: url('assets/img/service/service-bg-min.jpg');">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content bg-color-3 wow fadeInUp">
@@ -190,7 +190,7 @@
     </section>
 
     <!-- Service Section Start -->
-    <section class="service-section section-padding">
+    <section class="service-section section-padding py-5">
         <div class="container">
             <div class="section-title text-center">
                 <span class="sub-content wow fadeInUp">
@@ -255,8 +255,61 @@
         </div>
     </section>
 
+    <!-- Counter Section Start -->
+    <section class="counter-section  section-padding py-3">
+        <div class="container">
+            <div class="section-title text-center mb-0">
+                <span class="sub-content wow fadeInUp">
+                    <img src="assets/img/bale.png" alt="img">
+                    Fun Facts
+                </span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                    <div class="counter-items">
+                        <h2><span class="count">98</span>%</h2>
+                        <p>
+                            Average <br>
+                            Conversion Rate
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
+                    <div class="counter-items">
+                        <h2><span class="count">35</span>M+</h2>
+                        <p>
+                            Traffic <br>
+                            Generated
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
+                    <div class="counter-items">
+                        <h2><span class="count">97</span>%</h2>
+                        <p>
+                            Positive <br>
+                            Customer Review
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".8s">
+                    <div class="counter-items">
+                        <h2><span class="count">92</span>%</h2>
+                        <p>
+                            Professional <br>
+                            Team Members
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <!-- Cta Marketing Section Start -->
-    <section class="cta-marketing-section pt-2 pb-4 fix">
+    <section class="cta-marketing-section fix my-4">
         <div class="container">
             <div class="cta-marketing-wrapper">
                 <div class="content">
@@ -277,8 +330,140 @@
         </div>
     </section>
 
+
+    <!-- Testimonial Section Start -->
+    <section class="testimonial-section-2 fix section-padding fix py-5">
+        <div class="bg-shape">
+            <img src="assets/img/testimonial/bg-shape.png" alt="shape-img">
+        </div>
+        <div class="container">
+            <div class="section-title text-center">
+                <span class="sub-content">
+                    <img src="assets/img/bale.png" alt="img">
+                    Clients Feedback
+                </span>
+                <h2>
+                    We’ve 1250+ Global Clients Say Us
+                </h2>
+            </div>
+        </div>
+        <div class="swiper testimonial-slider-2">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image">
+                            <img src="assets/img/testimonial/client-2.png" alt="img">
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="author-image">
+                                <img src="assets/img/testimonial/client.png" alt="author-img">
+                                <div class="content">
+                                    <h5>Michael M. Griffin <span>/CO Founder</span></h5>
+                                </div>
+                            </div>
+                            <p>
+                                We denounce with righteous indignation and dislike men who are so beguiled demoralized by
+                                the charms of pleasure of the moment
+                            </p>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image">
+                            <img src="assets/img/testimonial/client-3.png" alt="img">
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="author-image">
+                                <img src="assets/img/testimonial/client.png" alt="author-img">
+                                <div class="content">
+                                    <h5>Robin T. Peckham<span>/ Developer</span></h5>
+                                </div>
+                            </div>
+                            <p>
+                                We denounce with righteous indignation and dislike men who are so beguiled demoralized by
+                                the charms of pleasure of the moment
+                            </p>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image">
+                            <img src="assets/img/testimonial/client-2.png" alt="img">
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="author-image">
+                                <img src="assets/img/testimonial/client.png" alt="author-img">
+                                <div class="content">
+                                    <h5>Michael M. Griffin <span>/CO Founder</span></h5>
+                                </div>
+                            </div>
+                            <p>
+                                We denounce with righteous indignation and dislike men who are so beguiled demoralized by
+                                the charms of pleasure of the moment
+                            </p>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonial-card-items">
+                        <div class="testimonial-image">
+                            <img src="assets/img/testimonial/client-3.png" alt="img">
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="author-image">
+                                <img src="assets/img/testimonial/client.png" alt="author-img">
+                                <div class="content">
+                                    <h5>Robin T. Peckham<span>/ Developer</span></h5>
+                                </div>
+                            </div>
+                            <p>
+                                We denounce with righteous indignation and dislike men who are so beguiled demoralized by
+                                the charms of pleasure of the moment
+                            </p>
+                            <div class="star">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-dot pb-5 text-center">
+                <div class="dot"></div>
+            </div>
+        </div>
+    </section>
+
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 </body>
 

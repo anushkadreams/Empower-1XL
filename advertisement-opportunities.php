@@ -144,8 +144,12 @@
     </div>
 
 
+
+
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 

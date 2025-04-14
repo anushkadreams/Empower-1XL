@@ -48,11 +48,11 @@
     </div>
 
     <!-- Contact Section Section Start -->
-    <section class="contact-section section-padding">
+    <section class="contact-section section-padding py-5">
         <div class="container">
             <div class="contact-wrapper">
                 <div class="row g-4">
-                    <div class="col-lg-6">
+                    <!-- <div class="col-lg-6">
                         <div class="contact-content">
                             <div class="section-title">
                                 <span class="sub-content wow fadeInUp">
@@ -113,8 +113,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6">
+                    </div> -->
+                    <div class="col-lg-12">
                         <div class="contact-right wow fadeInUp" data-wow-delay=".4s">
                             <h3>Send Us Message</h3>
                             <form name="contactForm" method="POST" id="contactForm" class="contact-form-items contact-form">
@@ -131,7 +131,7 @@
                                     <div class="col-lg-6">
                                         <div class="form-clt">
                                             <input type="hidden" name="ccode" id="ccode">
-                                            <input style="padding-left: 50px;" type="tel" required class="form-control mobile" name="mobile" id="mobile" placeholder="Contact Number">
+                                            <input value="+91" style="padding-left: 50px;" type="tel" required class="form-control mobile" name="mobile" id="mobile" placeholder="Contact Number">
                                             <span class="alert-error" id="mobile-error"></span>
                                         </div>
                                     </div>
@@ -167,7 +167,7 @@
                                         </button>
                                     </div>
 
-                                    
+
                                 </div>
                                 <!-- Form Message Display -->
                                 <div class="col-lg-12 contact-form-msg">
@@ -181,6 +181,78 @@
         </div>
     </section>
 
+    <section class="pricing-section section-padding pb-5 pt-3">
+        <div class="container">
+            <div class="section-title text-center">
+                <span class="sub-content wow fadeInUp" style="visibility: visible;">
+                    <img src="assets/img/bale.png" alt="img">
+                    Contact Us
+                </span>
+                <h2 class="wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s;">
+                    Don’t Hessite to Contact Us
+
+                </h2>
+                <p class="mt-3 pb-5 pt-3 mt-md-0 wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s;">
+                    Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium <br>
+                    doloremque laudantium, totam rem aperiam
+                </p>
+            </div>
+            <div class="contact-info-area">
+            </div>
+            <!-- flex -->
+            <div class="d-md-flex justify-content-evenly">
+                <div class="contact-items d-flex ">
+                    <div class="icon me-2 mt-1">
+                        <i class="fas fa-map-marker-alt" style="color: var(--theme);"></i>
+                    </div>
+                    <div class="content">
+                        <p class="fs-5"><strong>India – ONE XL INFO LLP</strong>
+                        </p>
+                        <p class="fs-5 mb-2">Registered Office:</p>
+                        <p class="mb-2"> <a href="https://g.co/kgs/df3gQ9q" target="_blank" class="text-decoration-none mb-2">
+                                3, Jainam Tower, 3, Sai Park,<br>
+                                Belthika Nagar, Thergaon,<br>
+                                Pune - 411033,<br>
+                                Maharashtra, India.</a></p>
+                    </div>
+                </div>
+                <div class="contact-items d-flex ">
+                    <div class="icon me-2 mt-1">
+                        <i class="fas fa-map-marker-alt" style="color: var(--theme);"></i>
+                    </div>
+                    <div class="content">
+                        <p class="fs-5"><strong>UAE – 1XL LLC FZ </strong></p>
+                        <p class="fs-5 mb-2">Registered Office:</p>
+                        <p class="mb-2">
+                            <a href="https://maps.app.goo.gl/57z56dZrVGQxsQuj8" target="_blank" class="text-decoration-none ">
+                                Business Center 1, M Floor, <br>
+                                The Meydan Hotel, <br> Nad Al Sheba,<br> Dubai, U.A.E.
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <div class="contact-items d-flex ">
+                        <div class="icon me-2 mt-1">
+                            <i class="fas fa-map-marker-alt" style="color: var(--theme);"></i>
+                        </div>
+                        <div class="content">
+                            <p class="fs-5"><strong>UAE – 1XL LLC FZ</strong> </p>
+                            <p class="fs-5 mb-2">Corporate Office:</p>
+                            <a href="https://maps.app.goo.gl/G6vswd1Xn1EY6FjNA" target="_blank" class="text-decoration-none ">
+                                2007, The Exchange Tower,
+                                <br> Business Bay,
+                                <br>Dubai, U.A.E.
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </section>
+
     <!-- Map Section Start -->
     <div class="map-section">
         <div class="map-items">
@@ -191,7 +263,9 @@
     </div>
 
     <?php
+    require "includes/newsletter-form.php";
     require "includes/footer.php";
+    require "includes/newsletter-script.php";
     ?>
 
 
@@ -275,7 +349,7 @@
             // Subject validation
             const subjectField = document.getElementById("subject");
             const subjectError = document.getElementById("subject-error");
-            validateField(subjectField, subjectError, (value) => value.length > 0 , "Subject cannot be empty.");
+            validateField(subjectField, subjectError, (value) => value.length > 0, "Subject cannot be empty.");
 
             // Message validation
             const messageField = document.getElementById("message");
